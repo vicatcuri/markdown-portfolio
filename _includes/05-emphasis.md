@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a *learner*
+I am a **listener**
+I am a **_tinkerer_**
+:building_construction:
